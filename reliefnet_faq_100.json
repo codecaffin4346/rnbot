@@ -1,402 +1,502 @@
 [
   {
-    "question": "What is tip 1 for home nursing?",
-    "answer": "Tip 1: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "Mental Health Support",
+    "question": "Are the therapists licensed?",
+    "answer": "Yes, all our therapists are certified professionals with experience in clinical counseling and mental health support."
   },
   {
-    "question": "What is tip 13 for ngo network?",
-    "answer": "Tip 13: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "Home Nursing",
+    "question": "How do I schedule a nurse visit?",
+    "answer": "Log in to your ReliefNet account, navigate to 'Home Nursing,' and pick a suitable date and time. We\u2019ll match you with a nurse based on your care needs."
   },
   {
-    "question": "What is tip 8 for ngo network?",
-    "answer": "Tip 8: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "Postpartum Services",
+    "question": "What postpartum services does ReliefNet offer?",
+    "answer": "ReliefNet offers lactation consulting, postnatal checkups, mental wellness sessions, and newborn care guidance."
   },
   {
-    "question": "What services are included in home nursing?",
-    "answer": "Services include wound care, medication administration, hygiene support, and monitoring.",
-    "category": "Home Nursing"
+    "category": "NGO Volunteering",
+    "question": "Are volunteering hours certified?",
+    "answer": "Yes, we provide digital certificates for verified hours contributed through ReliefNet\u2019s partner NGOs."
   },
   {
-    "question": "What is tip 7 for home nursing?",
-    "answer": "Tip 7: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "Mental Health Support",
+    "question": "How do I book a therapy session through ReliefNet?",
+    "answer": "Simply log in to your ReliefNet dashboard, choose 'Mental Health,' and select a time that works for you. A trained counselor will reach out to confirm."
   },
   {
-    "question": "What is tip 3 for home nursing?",
-    "answer": "Tip 3: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "Home Nursing",
+    "question": "Can I request same-day nurse visits?",
+    "answer": "Same-day visits may be available depending on your location. Please check the availability when booking."
   },
   {
-    "question": "What is tip 12 for home nursing?",
-    "answer": "Tip 12: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "Postpartum Services",
+    "question": "Are visits covered under insurance?",
+    "answer": "Coverage depends on your provider, but we\u2019ll help you navigate claim submissions wherever possible."
   },
   {
-    "question": "What is tip 14 for home nursing?",
-    "answer": "Tip 14: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "NGO Volunteering",
+    "question": "Are volunteering hours certified?",
+    "answer": "Yes, we provide digital certificates for verified hours contributed through ReliefNet\u2019s partner NGOs."
   },
   {
-    "question": "How do I deal with postpartum depression?",
-    "answer": "Talk to a therapist, stay connected with loved ones, and consider professional help.",
-    "category": "Postpartum & Women's Care"
+    "category": "Mental Health Support",
+    "question": "Can I choose a therapist based on language or cultural preference?",
+    "answer": "Absolutely. We understand the importance of feeling understood, and we offer filters for language, background, and specialties."
   },
   {
-    "question": "How do I manage panic attacks?",
-    "answer": "Practice deep breathing, grounding techniques, and seek support from a mental health professional.",
-    "category": "Mental Health Support"
+    "category": "Home Nursing",
+    "question": "How do I schedule a nurse visit?",
+    "answer": "Log in to your ReliefNet account, navigate to 'Home Nursing,' and pick a suitable date and time. We\u2019ll match you with a nurse based on your care needs."
   },
   {
-    "question": "What is tip 7 for postpartum & women's care?",
-    "answer": "Tip 7: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "Postpartum Services",
+    "question": "What postpartum services does ReliefNet offer?",
+    "answer": "ReliefNet offers lactation consulting, postnatal checkups, mental wellness sessions, and newborn care guidance."
   },
   {
-    "question": "What is tip 4 for ngo network?",
-    "answer": "Tip 4: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "NGO Volunteering",
+    "question": "Can students join as volunteers?",
+    "answer": "Of course! Students are encouraged to join\u2014many of our programs are designed with youth involvement in mind."
   },
   {
-    "question": "What is tip 12 for postpartum & women's care?",
-    "answer": "Tip 12: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "Mental Health Support",
+    "question": "What types of mental health support does ReliefNet offer?",
+    "answer": "ReliefNet provides online counseling, therapy matching, and wellness sessions tailored to individual needs\u2014whether you\u2019re managing anxiety, depression, grief, or burnout."
   },
   {
-    "question": "What is tip 13 for mental health support?",
-    "answer": "Tip 13: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "Home Nursing",
+    "question": "Are ReliefNet nurses certified?",
+    "answer": "Yes, all nurses are certified and trained in providing compassionate home-based care."
   },
   {
-    "question": "What is tip 1 for ngo network?",
-    "answer": "Tip 1: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "Postpartum Services",
+    "question": "What postpartum services does ReliefNet offer?",
+    "answer": "ReliefNet offers lactation consulting, postnatal checkups, mental wellness sessions, and newborn care guidance."
   },
   {
-    "question": "What is tip 15 for home nursing?",
-    "answer": "Tip 15: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "NGO Volunteering",
+    "question": "Do I need prior experience to volunteer?",
+    "answer": "No experience is required. We welcome anyone with a passion to help."
   },
   {
-    "question": "Do NGOs offer mental health support?",
-    "answer": "Yes, many partner NGOs offer counseling and peer support programs.",
-    "category": "NGO Network"
+    "category": "Mental Health Support",
+    "question": "Are the therapists licensed?",
+    "answer": "Yes, all our therapists are certified professionals with experience in clinical counseling and mental health support."
   },
   {
-    "question": "What is tip 6 for postpartum & women's care?",
-    "answer": "Tip 6: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "Home Nursing",
+    "question": "How do I schedule a nurse visit?",
+    "answer": "Log in to your ReliefNet account, navigate to 'Home Nursing,' and pick a suitable date and time. We\u2019ll match you with a nurse based on your care needs."
   },
   {
-    "question": "How can I volunteer with an NGO?",
-    "answer": "You can register through our NGO portal and choose causes that match your interests.",
-    "category": "NGO Network"
+    "category": "Postpartum Services",
+    "question": "What postpartum services does ReliefNet offer?",
+    "answer": "ReliefNet offers lactation consulting, postnatal checkups, mental wellness sessions, and newborn care guidance."
   },
   {
-    "question": "What is tip 8 for home nursing?",
-    "answer": "Tip 8: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "NGO Volunteering",
+    "question": "How can I volunteer with ReliefNet\u2019s NGO network?",
+    "answer": "Visit our 'Volunteer' section, browse available opportunities, and sign up for one that matches your interests and availability."
   },
   {
-    "question": "What is tip 10 for postpartum & women's care?",
-    "answer": "Tip 10: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "Mental Health Support",
+    "question": "Can I choose a therapist based on language or cultural preference?",
+    "answer": "Absolutely. We understand the importance of feeling understood, and we offer filters for language, background, and specialties."
   },
   {
-    "question": "What is tip 15 for postpartum & women's care?",
-    "answer": "Tip 15: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "Home Nursing",
+    "question": "How do I schedule a nurse visit?",
+    "answer": "Log in to your ReliefNet account, navigate to 'Home Nursing,' and pick a suitable date and time. We\u2019ll match you with a nurse based on your care needs."
   },
   {
-    "question": "What is tip 14 for mental health support?",
-    "answer": "Tip 14: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "Postpartum Services",
+    "question": "Are visits covered under insurance?",
+    "answer": "Coverage depends on your provider, but we\u2019ll help you navigate claim submissions wherever possible."
   },
   {
-    "question": "What is tip 2 for mental health support?",
-    "answer": "Tip 2: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "NGO Volunteering",
+    "question": "How can I volunteer with ReliefNet\u2019s NGO network?",
+    "answer": "Visit our 'Volunteer' section, browse available opportunities, and sign up for one that matches your interests and availability."
   },
   {
-    "question": "What is tip 3 for mental health support?",
-    "answer": "Tip 3: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "Mental Health Support",
+    "question": "How do I book a therapy session through ReliefNet?",
+    "answer": "Simply log in to your ReliefNet dashboard, choose 'Mental Health,' and select a time that works for you. A trained counselor will reach out to confirm."
   },
   {
-    "question": "What is tip 3 for ngo network?",
-    "answer": "Tip 3: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "Home Nursing",
+    "question": "Can I request same-day nurse visits?",
+    "answer": "Same-day visits may be available depending on your location. Please check the availability when booking."
   },
   {
-    "question": "Are there any NGOs working in women's health?",
-    "answer": "Yes, several NGOs focus on menstrual health, maternal care, and education.",
-    "category": "NGO Network"
+    "category": "Postpartum Services",
+    "question": "Do you offer newborn care training?",
+    "answer": "Yes, we offer educational sessions for new parents on sleep routines, feeding, and infant care."
   },
   {
-    "question": "What is tip 11 for home nursing?",
-    "answer": "Tip 11: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "NGO Volunteering",
+    "question": "Are volunteering hours certified?",
+    "answer": "Yes, we provide digital certificates for verified hours contributed through ReliefNet\u2019s partner NGOs."
   },
   {
-    "question": "What is tip 4 for home nursing?",
-    "answer": "Tip 4: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "Mental Health Support",
+    "question": "Are the therapists licensed?",
+    "answer": "Yes, all our therapists are certified professionals with experience in clinical counseling and mental health support."
   },
   {
-    "question": "What is the process for booking a home nurse?",
-    "answer": "You can fill out our online form or call our helpline to request a nurse based on your medical needs.",
-    "category": "Home Nursing"
+    "category": "Home Nursing",
+    "question": "Are ReliefNet nurses certified?",
+    "answer": "Yes, all nurses are certified and trained in providing compassionate home-based care."
   },
   {
-    "question": "What is tip 12 for mental health support?",
-    "answer": "Tip 12: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "Postpartum Services",
+    "question": "Do you offer newborn care training?",
+    "answer": "Yes, we offer educational sessions for new parents on sleep routines, feeding, and infant care."
   },
   {
-    "question": "Can I donate supplies to an NGO?",
-    "answer": "Yes, you can donate through our website or contact the NGO directly for needs.",
-    "category": "NGO Network"
+    "category": "NGO Volunteering",
+    "question": "Are volunteering hours certified?",
+    "answer": "Yes, we provide digital certificates for verified hours contributed through ReliefNet\u2019s partner NGOs."
   },
   {
-    "question": "What is tip 13 for postpartum & women's care?",
-    "answer": "Tip 13: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "Mental Health Support",
+    "question": "Are the therapists licensed?",
+    "answer": "Yes, all our therapists are certified professionals with experience in clinical counseling and mental health support."
   },
   {
-    "question": "What is tip 2 for ngo network?",
-    "answer": "Tip 2: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "Home Nursing",
+    "question": "How do I schedule a nurse visit?",
+    "answer": "Log in to your ReliefNet account, navigate to 'Home Nursing,' and pick a suitable date and time. We\u2019ll match you with a nurse based on your care needs."
   },
   {
-    "question": "What are some quick tips to reduce stress?",
-    "answer": "Try deep breathing, take short walks, and practice mindfulness daily.",
-    "category": "Mental Health Support"
+    "category": "Postpartum Services",
+    "question": "Is postpartum depression support available?",
+    "answer": "Absolutely. We provide specialized counseling to support new mothers facing emotional or mental health challenges."
   },
   {
-    "question": "Can I get a nurse for elderly care?",
-    "answer": "Yes, we offer elderly care services with trained professionals available at your convenience.",
-    "category": "Home Nursing"
+    "category": "NGO Volunteering",
+    "question": "Can students join as volunteers?",
+    "answer": "Of course! Students are encouraged to join\u2014many of our programs are designed with youth involvement in mind."
   },
   {
-    "question": "What is tip 9 for ngo network?",
-    "answer": "Tip 9: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "Mental Health Support",
+    "question": "Do I need a diagnosis to access therapy?",
+    "answer": "Not at all. You can reach out anytime you feel the need to talk or seek guidance\u2014no diagnosis required."
   },
   {
-    "question": "What is tip 14 for ngo network?",
-    "answer": "Tip 14: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "Home Nursing",
+    "question": "Can I request same-day nurse visits?",
+    "answer": "Same-day visits may be available depending on your location. Please check the availability when booking."
   },
   {
-    "question": "How can I manage postpartum anxiety?",
-    "answer": "Practice self-care, speak to a healthcare provider, and consider therapy.",
-    "category": "Postpartum & Women's Care"
+    "category": "Postpartum Services",
+    "question": "Are visits covered under insurance?",
+    "answer": "Coverage depends on your provider, but we\u2019ll help you navigate claim submissions wherever possible."
   },
   {
-    "question": "What is tip 2 for postpartum & women's care?",
-    "answer": "Tip 2: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "NGO Volunteering",
+    "question": "Do I need prior experience to volunteer?",
+    "answer": "No experience is required. We welcome anyone with a passion to help."
   },
   {
-    "question": "What roles are available for NGO volunteers?",
-    "answer": "Roles include field support, teaching, logistics, content writing, and more.",
-    "category": "NGO Network"
+    "category": "Mental Health Support",
+    "question": "Can I choose a therapist based on language or cultural preference?",
+    "answer": "Absolutely. We understand the importance of feeling understood, and we offer filters for language, background, and specialties."
   },
   {
-    "question": "What is tip 12 for ngo network?",
-    "answer": "Tip 12: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "Home Nursing",
+    "question": "Is equipment like wheelchairs or beds provided?",
+    "answer": "We can assist in renting or procuring medical equipment through our trusted partners. Let us know during your consultation."
   },
   {
-    "question": "Do you provide post-surgery home nursing?",
-    "answer": "Yes, our team includes specialists in post-operative care and recovery support.",
-    "category": "Home Nursing"
+    "category": "Postpartum Services",
+    "question": "Are visits covered under insurance?",
+    "answer": "Coverage depends on your provider, but we\u2019ll help you navigate claim submissions wherever possible."
   },
   {
-    "question": "What support is available for postpartum care?",
-    "answer": "We provide lactation counseling, emotional support, and physical recovery guidance.",
-    "category": "Postpartum & Women's Care"
+    "category": "NGO Volunteering",
+    "question": "Do I need prior experience to volunteer?",
+    "answer": "No experience is required. We welcome anyone with a passion to help."
   },
   {
-    "question": "What is tip 9 for home nursing?",
-    "answer": "Tip 9: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "Mental Health Support",
+    "question": "Do I need a diagnosis to access therapy?",
+    "answer": "Not at all. You can reach out anytime you feel the need to talk or seek guidance\u2014no diagnosis required."
   },
   {
-    "question": "What is tip 8 for mental health support?",
-    "answer": "Tip 8: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "Home Nursing",
+    "question": "Can I request same-day nurse visits?",
+    "answer": "Same-day visits may be available depending on your location. Please check the availability when booking."
   },
   {
-    "question": "What is tip 1 for postpartum & women's care?",
-    "answer": "Tip 1: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "Postpartum Services",
+    "question": "Can I get help with breastfeeding?",
+    "answer": "Yes, our certified lactation consultants offer both virtual and in-person support tailored to your needs."
   },
   {
-    "question": "What is tip 9 for mental health support?",
-    "answer": "Tip 9: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "NGO Volunteering",
+    "question": "Are volunteering hours certified?",
+    "answer": "Yes, we provide digital certificates for verified hours contributed through ReliefNet\u2019s partner NGOs."
   },
   {
-    "question": "What is tip 1 for mental health support?",
-    "answer": "Tip 1: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "Mental Health Support",
+    "question": "Are the therapists licensed?",
+    "answer": "Yes, all our therapists are certified professionals with experience in clinical counseling and mental health support."
   },
   {
-    "question": "What is tip 2 for home nursing?",
-    "answer": "Tip 2: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "Home Nursing",
+    "question": "Can I request same-day nurse visits?",
+    "answer": "Same-day visits may be available depending on your location. Please check the availability when booking."
   },
   {
-    "question": "What is tip 6 for home nursing?",
-    "answer": "Tip 6: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "Postpartum Services",
+    "question": "Are visits covered under insurance?",
+    "answer": "Coverage depends on your provider, but we\u2019ll help you navigate claim submissions wherever possible."
   },
   {
-    "question": "Is online therapy effective?",
-    "answer": "Yes, online therapy is a convenient and effective option for many individuals.",
-    "category": "Mental Health Support"
+    "category": "NGO Volunteering",
+    "question": "Can students join as volunteers?",
+    "answer": "Of course! Students are encouraged to join\u2014many of our programs are designed with youth involvement in mind."
   },
   {
-    "question": "What is tip 13 for home nursing?",
-    "answer": "Tip 13: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "Mental Health Support",
+    "question": "What types of mental health support does ReliefNet offer?",
+    "answer": "ReliefNet provides online counseling, therapy matching, and wellness sessions tailored to individual needs\u2014whether you\u2019re managing anxiety, depression, grief, or burnout."
   },
   {
-    "question": "What is tip 5 for ngo network?",
-    "answer": "Tip 5: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "Home Nursing",
+    "question": "Is equipment like wheelchairs or beds provided?",
+    "answer": "We can assist in renting or procuring medical equipment through our trusted partners. Let us know during your consultation."
   },
   {
-    "question": "What is tip 9 for postpartum & women's care?",
-    "answer": "Tip 9: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "Postpartum Services",
+    "question": "What postpartum services does ReliefNet offer?",
+    "answer": "ReliefNet offers lactation consulting, postnatal checkups, mental wellness sessions, and newborn care guidance."
   },
   {
-    "question": "What is tip 11 for mental health support?",
-    "answer": "Tip 11: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "NGO Volunteering",
+    "question": "Can I volunteer remotely?",
+    "answer": "Yes, we offer virtual volunteering roles such as teaching, mentoring, and digital support."
   },
   {
-    "question": "How can I book a therapist?",
-    "answer": "You can book a therapist by visiting our portal and selecting an available professional based on your needs.",
-    "category": "Mental Health Support"
+    "category": "Mental Health Support",
+    "question": "Are the therapists licensed?",
+    "answer": "Yes, all our therapists are certified professionals with experience in clinical counseling and mental health support."
   },
   {
-    "question": "What is tip 7 for mental health support?",
-    "answer": "Tip 7: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "Home Nursing",
+    "question": "How do I schedule a nurse visit?",
+    "answer": "Log in to your ReliefNet account, navigate to 'Home Nursing,' and pick a suitable date and time. We\u2019ll match you with a nurse based on your care needs."
   },
   {
-    "question": "What is tip 15 for ngo network?",
-    "answer": "Tip 15: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "Postpartum Services",
+    "question": "Are visits covered under insurance?",
+    "answer": "Coverage depends on your provider, but we\u2019ll help you navigate claim submissions wherever possible."
   },
   {
-    "question": "What is tip 3 for postpartum & women's care?",
-    "answer": "Tip 3: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "NGO Volunteering",
+    "question": "Do I need prior experience to volunteer?",
+    "answer": "No experience is required. We welcome anyone with a passion to help."
   },
   {
-    "question": "What is tip 5 for home nursing?",
-    "answer": "Tip 5: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "Mental Health Support",
+    "question": "Are the therapists licensed?",
+    "answer": "Yes, all our therapists are certified professionals with experience in clinical counseling and mental health support."
   },
   {
-    "question": "What is tip 5 for postpartum & women's care?",
-    "answer": "Tip 5: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "Home Nursing",
+    "question": "Are ReliefNet nurses certified?",
+    "answer": "Yes, all nurses are certified and trained in providing compassionate home-based care."
   },
   {
-    "question": "Is it normal to feel overwhelmed after childbirth?",
-    "answer": "Yes, many mothers feel this way; support groups and therapy can help.",
-    "category": "Postpartum & Women's Care"
+    "category": "Postpartum Services",
+    "question": "Can I get help with breastfeeding?",
+    "answer": "Yes, our certified lactation consultants offer both virtual and in-person support tailored to your needs."
   },
   {
-    "question": "What is tip 10 for mental health support?",
-    "answer": "Tip 10: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "NGO Volunteering",
+    "question": "How can I volunteer with ReliefNet\u2019s NGO network?",
+    "answer": "Visit our 'Volunteer' section, browse available opportunities, and sign up for one that matches your interests and availability."
   },
   {
-    "question": "What is tip 5 for mental health support?",
-    "answer": "Tip 5: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "Mental Health Support",
+    "question": "Do I need a diagnosis to access therapy?",
+    "answer": "Not at all. You can reach out anytime you feel the need to talk or seek guidance\u2014no diagnosis required."
   },
   {
-    "question": "What is tip 7 for ngo network?",
-    "answer": "Tip 7: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "Home Nursing",
+    "question": "Is equipment like wheelchairs or beds provided?",
+    "answer": "We can assist in renting or procuring medical equipment through our trusted partners. Let us know during your consultation."
   },
   {
-    "question": "What is tip 11 for ngo network?",
-    "answer": "Tip 11: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "Postpartum Services",
+    "question": "Are visits covered under insurance?",
+    "answer": "Coverage depends on your provider, but we\u2019ll help you navigate claim submissions wherever possible."
   },
   {
-    "question": "What is tip 6 for ngo network?",
-    "answer": "Tip 6: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "NGO Volunteering",
+    "question": "Can students join as volunteers?",
+    "answer": "Of course! Students are encouraged to join\u2014many of our programs are designed with youth involvement in mind."
   },
   {
-    "question": "What is tip 6 for mental health support?",
-    "answer": "Tip 6: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "Mental Health Support",
+    "question": "Are the therapists licensed?",
+    "answer": "Yes, all our therapists are certified professionals with experience in clinical counseling and mental health support."
   },
   {
-    "question": "What is tip 8 for postpartum & women's care?",
-    "answer": "Tip 8: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "Home Nursing",
+    "question": "How do I schedule a nurse visit?",
+    "answer": "Log in to your ReliefNet account, navigate to 'Home Nursing,' and pick a suitable date and time. We\u2019ll match you with a nurse based on your care needs."
   },
   {
-    "question": "What should I eat during postpartum recovery?",
-    "answer": "Include nutrient-rich foods like leafy greens, whole grains, and lean proteins.",
-    "category": "Postpartum & Women's Care"
+    "category": "Postpartum Services",
+    "question": "Do you offer newborn care training?",
+    "answer": "Yes, we offer educational sessions for new parents on sleep routines, feeding, and infant care."
   },
   {
-    "question": "What is tip 10 for home nursing?",
-    "answer": "Tip 10: Practice regular care and consult a professional when needed.",
-    "category": "Home Nursing"
+    "category": "NGO Volunteering",
+    "question": "Do I need prior experience to volunteer?",
+    "answer": "No experience is required. We welcome anyone with a passion to help."
   },
   {
-    "question": "What is tip 4 for postpartum & women's care?",
-    "answer": "Tip 4: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "Mental Health Support",
+    "question": "What types of mental health support does ReliefNet offer?",
+    "answer": "ReliefNet provides online counseling, therapy matching, and wellness sessions tailored to individual needs\u2014whether you\u2019re managing anxiety, depression, grief, or burnout."
   },
   {
-    "question": "Are your nurses certified?",
-    "answer": "All our nurses are licensed and undergo regular training for quality care.",
-    "category": "Home Nursing"
+    "category": "Home Nursing",
+    "question": "How do I schedule a nurse visit?",
+    "answer": "Log in to your ReliefNet account, navigate to 'Home Nursing,' and pick a suitable date and time. We\u2019ll match you with a nurse based on your care needs."
   },
   {
-    "question": "What is tip 11 for postpartum & women's care?",
-    "answer": "Tip 11: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "Postpartum Services",
+    "question": "Can I get help with breastfeeding?",
+    "answer": "Yes, our certified lactation consultants offer both virtual and in-person support tailored to your needs."
   },
   {
-    "question": "What is tip 4 for mental health support?",
-    "answer": "Tip 4: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "NGO Volunteering",
+    "question": "Can I volunteer remotely?",
+    "answer": "Yes, we offer virtual volunteering roles such as teaching, mentoring, and digital support."
   },
   {
-    "question": "What are the symptoms of anxiety?",
-    "answer": "Symptoms include excessive worry, restlessness, fatigue, difficulty concentrating, and sleep disturbances.",
-    "category": "Mental Health Support"
+    "category": "Mental Health Support",
+    "question": "How do I book a therapy session through ReliefNet?",
+    "answer": "Simply log in to your ReliefNet dashboard, choose 'Mental Health,' and select a time that works for you. A trained counselor will reach out to confirm."
   },
   {
-    "question": "What is tip 15 for mental health support?",
-    "answer": "Tip 15: Practice regular care and consult a professional when needed.",
-    "category": "Mental Health Support"
+    "category": "Home Nursing",
+    "question": "What kind of home nursing care does ReliefNet provide?",
+    "answer": "ReliefNet offers skilled nursing care, post-surgery support, chronic illness management, and elder care directly at home."
   },
   {
-    "question": "What is tip 14 for postpartum & women's care?",
-    "answer": "Tip 14: Practice regular care and consult a professional when needed.",
-    "category": "Postpartum & Women's Care"
+    "category": "Postpartum Services",
+    "question": "Do you offer newborn care training?",
+    "answer": "Yes, we offer educational sessions for new parents on sleep routines, feeding, and infant care."
   },
   {
-    "question": "What is tip 10 for ngo network?",
-    "answer": "Tip 10: Practice regular care and consult a professional when needed.",
-    "category": "NGO Network"
+    "category": "NGO Volunteering",
+    "question": "Can students join as volunteers?",
+    "answer": "Of course! Students are encouraged to join\u2014many of our programs are designed with youth involvement in mind."
+  },
+  {
+    "category": "Mental Health Support",
+    "question": "What types of mental health support does ReliefNet offer?",
+    "answer": "ReliefNet provides online counseling, therapy matching, and wellness sessions tailored to individual needs\u2014whether you\u2019re managing anxiety, depression, grief, or burnout."
+  },
+  {
+    "category": "Home Nursing",
+    "question": "What kind of home nursing care does ReliefNet provide?",
+    "answer": "ReliefNet offers skilled nursing care, post-surgery support, chronic illness management, and elder care directly at home."
+  },
+  {
+    "category": "Postpartum Services",
+    "question": "Do you offer newborn care training?",
+    "answer": "Yes, we offer educational sessions for new parents on sleep routines, feeding, and infant care."
+  },
+  {
+    "category": "NGO Volunteering",
+    "question": "Do I need prior experience to volunteer?",
+    "answer": "No experience is required. We welcome anyone with a passion to help."
+  },
+  {
+    "category": "Mental Health Support",
+    "question": "Can I choose a therapist based on language or cultural preference?",
+    "answer": "Absolutely. We understand the importance of feeling understood, and we offer filters for language, background, and specialties."
+  },
+  {
+    "category": "Home Nursing",
+    "question": "Is equipment like wheelchairs or beds provided?",
+    "answer": "We can assist in renting or procuring medical equipment through our trusted partners. Let us know during your consultation."
+  },
+  {
+    "category": "Postpartum Services",
+    "question": "Are visits covered under insurance?",
+    "answer": "Coverage depends on your provider, but we\u2019ll help you navigate claim submissions wherever possible."
+  },
+  {
+    "category": "NGO Volunteering",
+    "question": "Do I need prior experience to volunteer?",
+    "answer": "No experience is required. We welcome anyone with a passion to help."
+  },
+  {
+    "category": "Mental Health Support",
+    "question": "What types of mental health support does ReliefNet offer?",
+    "answer": "ReliefNet provides online counseling, therapy matching, and wellness sessions tailored to individual needs\u2014whether you\u2019re managing anxiety, depression, grief, or burnout."
+  },
+  {
+    "category": "Home Nursing",
+    "question": "Are ReliefNet nurses certified?",
+    "answer": "Yes, all nurses are certified and trained in providing compassionate home-based care."
+  },
+  {
+    "category": "Postpartum Services",
+    "question": "What postpartum services does ReliefNet offer?",
+    "answer": "ReliefNet offers lactation consulting, postnatal checkups, mental wellness sessions, and newborn care guidance."
+  },
+  {
+    "category": "NGO Volunteering",
+    "question": "Are volunteering hours certified?",
+    "answer": "Yes, we provide digital certificates for verified hours contributed through ReliefNet\u2019s partner NGOs."
+  },
+  {
+    "category": "Mental Health Support",
+    "question": "Are the therapists licensed?",
+    "answer": "Yes, all our therapists are certified professionals with experience in clinical counseling and mental health support."
+  },
+  {
+    "category": "Home Nursing",
+    "question": "Is equipment like wheelchairs or beds provided?",
+    "answer": "We can assist in renting or procuring medical equipment through our trusted partners. Let us know during your consultation."
+  },
+  {
+    "category": "Postpartum Services",
+    "question": "Are visits covered under insurance?",
+    "answer": "Coverage depends on your provider, but we\u2019ll help you navigate claim submissions wherever possible."
+  },
+  {
+    "category": "NGO Volunteering",
+    "question": "Can students join as volunteers?",
+    "answer": "Of course! Students are encouraged to join\u2014many of our programs are designed with youth involvement in mind."
+  },
+  {
+    "category": "Mental Health Support",
+    "question": "Do I need a diagnosis to access therapy?",
+    "answer": "Not at all. You can reach out anytime you feel the need to talk or seek guidance\u2014no diagnosis required."
+  },
+  {
+    "category": "Home Nursing",
+    "question": "What kind of home nursing care does ReliefNet provide?",
+    "answer": "ReliefNet offers skilled nursing care, post-surgery support, chronic illness management, and elder care directly at home."
+  },
+  {
+    "category": "Postpartum Services",
+    "question": "What postpartum services does ReliefNet offer?",
+    "answer": "ReliefNet offers lactation consulting, postnatal checkups, mental wellness sessions, and newborn care guidance."
+  },
+  {
+    "category": "NGO Volunteering",
+    "question": "Can students join as volunteers?",
+    "answer": "Of course! Students are encouraged to join\u2014many of our programs are designed with youth involvement in mind."
   }
 ]
